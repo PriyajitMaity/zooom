@@ -1,7 +1,8 @@
-First project using NextJS. Learn to develop a professional enterprise-ready video conferencing app using Next.js, Stream, and Tailwind CSS.
+First project using NextJS. Learn to develop a professional enterprise-ready video conferencing app like Zoom meetimg call, using Next.js, Stream, and Tailwind CSS.
 
 # Demo
-[check here](https://zooom-dusky.vercel.app/))
+[check here]((https://zooom-dusky.vercel.app/))
+
 # Usage
 1. Fork the Repo then clone it, or download it.
 2. First install all dependencies:
