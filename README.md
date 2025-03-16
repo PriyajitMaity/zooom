@@ -7,7 +7,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 ### 👉 Demo
 [zooom clone](https://zooom-dusky.vercel.app/)
 
-### Tech stack
+### 👉 Tech stack
 - Next.js
 - TypeScript
 - Clerk
@@ -47,4 +47,7 @@ npm start
 ```
 
 ## Preview
-
+* Home page
+![Image](https://github.com/user-attachments/assets/99144b21-49ff-468c-8777-a3c0493dc0dd)
+* meeti
+ng page![Image](https://github.com/user-attachments/assets/cdcf10eb-b8dd-493a-ad08-28de172b000b)
