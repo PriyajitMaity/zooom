@@ -16,7 +16,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Tailwind css
 
 ### Features
-** Authentication -
+* Authentication -
 
 ### Usage
 1. Fork the Repo then clone it, or download it.
