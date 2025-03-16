@@ -1,4 +1,4 @@
-Building an Learning-web-App using MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs) and bring some additional features , continue improving the UI (will never be done.....).
+First project using NextJS. Learn to develop a professional enterprise-ready video conferencing app using Next.js, Stream, and Tailwind CSS.
 
 # Demo
 [check here](https://zooom-dusky.vercel.app/))
