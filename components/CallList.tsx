@@ -18,7 +18,7 @@ const CallList = ({ type }: { type: "ended" | "upcoming" | "recordings" }) => {
       case "upcoming":
         return upcomingCalls;
       case "recordings":
-        return callRecordings;
+        return recordings;
       default:
         return [];
     }
