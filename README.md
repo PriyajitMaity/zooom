@@ -15,8 +15,13 @@ If you're getting started and need assistance or face any bugs, join our active 
 - shadcn
 - Tailwind css
 
-### Features
-* Authentication -
+###👉 Features
+* Authentication -  Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or email.
+* New meeting - Quickly start a new meeting, configuring camera and microphone settings before joining.
+* Meeting controls - Participants have full control over meeting aspects (pinning, muting, unmuting, blocking, allowing video share).
+* Join Meetings via Link - Easily join meetings created by others by providing a link.
+* Past Meetings List - Access a list of previously held meetings, including details and metadata.
+* View Recorded Meetings - Access recordings of past meetings for review or reference.
 
 ### Usage
 1. Fork the Repo then clone it, or download it.
