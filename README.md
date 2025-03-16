@@ -48,6 +48,8 @@ npm start
 
 ## 👉 Preview
 * Home page
+
 ![Image](https://github.com/user-attachments/assets/4e7b802e-dcf8-40dd-9e4b-a72c9bfc2e24)
 * Meeting page
+ 
 ![Image](https://github.com/user-attachments/assets/a3b55ace-0409-40f0-a93c-b573e36c3b20)
