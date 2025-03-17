@@ -41,10 +41,6 @@ yarn
 ````
 npm run dev
 ````
-5. Now run the app -
-```
-npm start
-```
 
 ## 👉 Preview
 * Home page
