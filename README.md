@@ -5,7 +5,7 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom, a wi
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 30 thousand members. It's a place where people help each other out.
 
 ### 👉 Demo
-[zooom clone](https://zooom-dusky.vercel.app/)
+* click to check demo [zooom clone](https://zooom-dusky.vercel.app/)
 
 ### 👉 Tech stack
 - Next.js
