@@ -11,7 +11,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Next.js
 - TypeScript
 - Clerk
-- stream-io
+- stream-io..
 - shadcn
 - Tailwind css
 
